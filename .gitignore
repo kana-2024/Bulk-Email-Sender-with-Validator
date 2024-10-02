@@ -1,0 +1,6 @@
+# Node modules
+node_modules/
+
+# OAuth credentials and tokens
+credentials.json
+token.json
